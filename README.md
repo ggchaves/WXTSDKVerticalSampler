@@ -1,17 +1,10 @@
-# CiscoWXTMediaSDKSampler
-Copyright (c) 2019 Cisco and/or its affiliates.
-
-This software is licensed to you under the terms of the Cisco Sample
-Code License, Version 1.1 (the "License"). You may obtain a copy of the
-License at
-
-               https://developer.cisco.com/docs/licenses
-
-All use of the material herein must be in accordance with the terms of
-the License. All rights not expressly granted by the License are
-reserved. Unless required by applicable law or agreed to separately in
-writing, software distributed under the License is distributed on an "AS
-IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
-or implied.
+Spark Media SDK Sampler Code 
 
 
+
+You need to use xCode 1.1 since the source code is in Swift 3
+(download from https://developer.apple.com/download/more/)
+https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip 
+You need to log into apple as a developer. Instructions are simple to follow if your AppleID is not a developer account yet. 
+- Extract the XCode executable from the .xip file by opening the .xip archive. 
+- If you already have a newer version of XCode, then copy the xCode file from the archive into a different folder than Applications so you do not overwrite the newer xCode. Filenames are the same so you have to extract the file info to verify the version number.
