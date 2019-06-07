@@ -1,14 +1,12 @@
 # WEBEX TEAMS SDK VERTICAL SAMPLER
 
-_Sample code using swift 3 and xcode to showcase different uses cases from Industries : Retail, Health case
+Sample code using swift 3 and xcode to showcase different uses cases from Industries : Retail, Health case
 
 ---
 
 ## Project short description and introduction.
 
 With this sampler code you can extend the uses of webex teams in different use cases than the tradicional collaboration tools and it is probe that with a SDK you can enhanced the user experience beyon the tradicional webex teams UI 
-
-> **Writing your Sample Code's README and Project Documentation:** Avoiding using Open Source terminology like "contribution" and "open source project" and never confuse for whom (customers and partners) and what purpose (improving the Cisco product experience) your sample code is written. We provide sample code as an example or demonstration of how to do things with our products and services.
 
 
 ## Features
