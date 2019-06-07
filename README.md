@@ -1,10 +1,39 @@
-Spark Media SDK Sampler Code 
+# Project Name
+
+_Project single-line description_
+
+---
+
+Project short description and introduction.
+
+> **Writing your Sample Code's README and Project Documentation:** Avoiding using Open Source terminology like "contribution" and "open source project" and never confuse for whom (customers and partners) and what purpose (improving the Cisco product experience) your sample code is written. We provide sample code as an example or demonstration of how to do things with our products and services.
 
 
+## Features
 
-You need to use xCode 1.1 since the source code is in Swift 3
-(download from https://developer.apple.com/download/more/)
-https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip 
-You need to log into apple as a developer. Instructions are simple to follow if your AppleID is not a developer account yet. 
-- Extract the XCode executable from the .xip file by opening the .xip archive. 
-- If you already have a newer version of XCode, then copy the xCode file from the archive into a different folder than Applications so you do not overwrite the newer xCode. Filenames are the same so you have to extract the file info to verify the version number.
+* Project feature
+
+
+## Solution Components
+
+Brief overview of the components involved with this project.
+
+### Cisco Products / Services
+
+* Cisco Product
+
+
+## Usage
+
+How to use this project.
+
+
+## Installation
+
+How to install or setup the project for use.
+
+
+## Documentation
+
+Pointer to reference documentation for this project.
+
