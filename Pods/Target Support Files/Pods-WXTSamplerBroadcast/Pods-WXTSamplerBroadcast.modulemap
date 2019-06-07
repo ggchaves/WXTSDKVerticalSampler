@@ -1,0 +1,6 @@
+framework module Pods_WXTSamplerBroadcast {
+  umbrella header "Pods-WXTSamplerBroadcast-umbrella.h"
+
+  export *
+  module * { export * }
+}

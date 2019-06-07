@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>scenarioName</key>
+		<string>Retail</string>
+		<key>scenarioImageName</key>
+		<string>scenarioRetail</string>
+		<key>scenarioSegueIdentifier</key>
+		<string>scenarioRetail</string>
+		<key>scenarioIsActive</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>scenarioName</key>
+		<string>Healthcare</string>
+		<key>scenarioImageName</key>
+		<string>scenarioHealthcare</string>
+		<key>scenarioSegueIdentifier</key>
+		<string>scenarioHealthcare</string>
+		<key>scenarioIsActive</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>scenarioName</key>
+		<string>Financial</string>
+		<key>scenarioImageName</key>
+		<string>scenarioFinancial</string>
+		<key>scenarioSegueIdentifier</key>
+		<string>scenarioFinancial</string>
+		<key>scenarioIsActive</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>scenarioName</key>
+		<string>Messaging</string>
+		<key>scenarioImageName</key>
+		<string>scenarioMessaging</string>
+		<key>scenarioSegueIdentifier</key>
+		<string>scenarioMessaging</string>
+		<key>scenarioIsActive</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>scenarioName</key>
+		<string>Human Resources</string>
+		<key>scenarioImageName</key>
+		<string>scenarioEducation</string>
+		<key>scenarioSegueIdentifier</key>
+		<string>scenarioEducation</string>
+		<key>scenarioIsActive</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>scenarioName</key>
+		<string>Velas Resort</string>
+		<key>scenarioImageName</key>
+		<string>scenarioCustomerWebsite</string>
+		<key>scenarioSegueIdentifier</key>
+		<string>scenarioCustomerWebsite</string>
+		<key>scenarioIsActive</key>
+		<true/>
+	</dict>
+</array>
+</plist>

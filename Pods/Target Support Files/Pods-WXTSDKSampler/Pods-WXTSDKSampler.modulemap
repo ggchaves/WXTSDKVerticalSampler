@@ -1,0 +1,6 @@
+framework module Pods_WXTSDKSampler {
+  umbrella header "Pods-WXTSDKSampler-umbrella.h"
+
+  export *
+  module * { export * }
+}

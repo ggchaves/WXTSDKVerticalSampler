@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>themeName</key>
+		<string>Barclays Blue</string>
+		<key>themeId</key>
+		<string>1</string>
+		<key>red</key>
+		<string>0.00</string>
+		<key>green</key>
+		<string>0.67</string>
+		<key>blue</key>
+		<string>0.96</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>Royal Bank of Scotland Purple</string>
+		<key>themeId</key>
+		<string>2</string>
+		<key>red</key>
+		<string>0.02</string>
+		<key>green</key>
+		<string>0.22</string>
+		<key>blue</key>
+		<string>0.48</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>Lloyds Bank Green</string>
+		<key>themeId</key>
+		<string>3</string>
+		<key>red</key>
+		<string>0.00</string>
+		<key>green</key>
+		<string>0.44</string>
+		<key>blue</key>
+		<string>0.29</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>Santander Red</string>
+		<key>themeId</key>
+		<string>4</string>
+		<key>red</key>
+		<string>0.91</string>
+		<key>green</key>
+		<string>0.00</string>
+		<key>blue</key>
+		<string>0.09</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>Bank of America Red</string>
+		<key>themeId</key>
+		<string>5</string>
+		<key>red</key>
+		<string>0.90</string>
+		<key>green</key>
+		<string>0.00</string>
+		<key>blue</key>
+		<string>0.16</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>Capital One Blue</string>
+		<key>themeId</key>
+		<string>6</string>
+		<key>red</key>
+		<string>0.07</string>
+		<key>green</key>
+		<string>0.43</string>
+		<key>blue</key>
+		<string>0.69</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>TD Bank Green</string>
+		<key>themeId</key>
+		<string>7</string>
+		<key>red</key>
+		<string>0.00</string>
+		<key>green</key>
+		<string>0.76</string>
+		<key>blue</key>
+		<string>0.00</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>Citi Bank Purple</string>
+		<key>themeId</key>
+		<string>8</string>
+		<key>red</key>
+		<string>0.07</string>
+		<key>green</key>
+		<string>0.22</string>
+		<key>blue</key>
+		<string>0.51</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>Wells Fargo Red</string>
+		<key>themeId</key>
+		<string>9</string>
+		<key>red</key>
+		<string>0.85</string>
+		<key>green</key>
+		<string>0.00</string>
+		<key>blue</key>
+		<string>0.00</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>themeName</key>
+		<string>Aviva Yellow</string>
+		<key>themeId</key>
+		<string>10</string>
+		<key>red</key>
+		<string>0.92</string>
+		<key>green</key>
+		<string>0.82</string>
+		<key>blue</key>
+		<string>0.00</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+</array>
+</plist>

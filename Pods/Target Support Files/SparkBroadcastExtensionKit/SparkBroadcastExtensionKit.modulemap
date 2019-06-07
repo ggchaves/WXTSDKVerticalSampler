@@ -1,0 +1,6 @@
+framework module SparkBroadcastExtensionKit {
+  umbrella header "SparkBroadcastExtensionKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

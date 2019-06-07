@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SDK Sampler" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="omM-iB-5BW">
+                                <rect key="frame" x="40" y="47" width="295" height="23"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="23" id="ueh-Zr-KA6"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="ArialRoundedMTBold" family="Arial Rounded MT Bold" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="cs.co/thespot" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5Kf-WP-oH0">
+                                <rect key="frame" x="40" y="602" width="295" height="20"/>
+                                <fontDescription key="fontDescription" name="ArialRoundedMTBold" family="Arial Rounded MT Bold" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="wx-t-ico" translatesAutoresizingMaskIntoConstraints="NO" id="kOj-by-gBg">
+                                <rect key="frame" x="55" y="185" width="265" height="297"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.95709520578384399" green="0.9605979323387146" blue="0.972545325756073" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="omM-iB-5BW" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="6tI-MG-KwV"/>
+                            <constraint firstItem="kOj-by-gBg" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="VzC-m7-rb8"/>
+                            <constraint firstItem="omM-iB-5BW" firstAttribute="leading" secondItem="5Kf-WP-oH0" secondAttribute="leading" id="cVs-1Y-S3u"/>
+                            <constraint firstItem="omM-iB-5BW" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="24" id="cwo-Rg-EPA"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="5Kf-WP-oH0" secondAttribute="bottom" constant="45" id="fv9-Ww-Hdz"/>
+                            <constraint firstItem="omM-iB-5BW" firstAttribute="trailing" secondItem="5Kf-WP-oH0" secondAttribute="trailing" id="que-Uu-jdU"/>
+                            <constraint firstItem="omM-iB-5BW" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="27" id="va4-lI-Ycv"/>
+                            <constraint firstItem="kOj-by-gBg" firstAttribute="centerX" secondItem="omM-iB-5BW" secondAttribute="centerX" id="wrh-kP-pnN"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="wx-t-ico" width="265" height="297"/>
+    </resources>
+</document>

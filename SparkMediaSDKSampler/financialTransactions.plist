@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>transactionImage</key>
+		<string>Indifix</string>
+		<key>transactionMerchant</key>
+		<string>Indifix</string>
+		<key>transactionDate</key>
+		<string>08/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $9,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Medsailcare</string>
+		<key>transactionMerchant</key>
+		<string>Medsailcare</string>
+		<key>transactionDate</key>
+		<string>08/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $748,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Tripplecare</string>
+		<key>transactionMerchant</key>
+		<string>Salary</string>
+		<key>transactionDate</key>
+		<string>08/05/2017</string>
+		<key>transactionAmount</key>
+		<string>+ $2496,99</string>
+		<key>transactionOutgoing</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Bigquote</string>
+		<key>transactionMerchant</key>
+		<string>Bigquote</string>
+		<key>transactionDate</key>
+		<string>07/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $1299,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Inrunbase</string>
+		<key>transactionMerchant</key>
+		<string>Inrunbase</string>
+		<key>transactionDate</key>
+		<string>07/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $64,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>New item</key>
+		<dict>
+			<key>transactionImage</key>
+			<string>adobe</string>
+			<key>transactionMerchant</key>
+			<string>Adobe</string>
+			<key>transactionDate</key>
+			<string>01/05/2017</string>
+			<key>transactionAmount</key>
+			<string>- $14,99</string>
+			<key>transactionOutgoing</key>
+			<true/>
+		</dict>
+		<key>transactionImage</key>
+		<string>Opestrip</string>
+		<key>transactionMerchant</key>
+		<string>Opestrip</string>
+		<key>transactionDate</key>
+		<string>07/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $9,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Trestechno</string>
+		<key>transactionMerchant</key>
+		<string>Trestechno</string>
+		<key>transactionDate</key>
+		<string>03/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $2800,00</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Doublebam</string>
+		<key>transactionMerchant</key>
+		<string>Doublebam</string>
+		<key>transactionDate</key>
+		<string>03/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $9,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Zamlam</string>
+		<key>transactionMerchant</key>
+		<string>Zamlam</string>
+		<key>transactionDate</key>
+		<string>02/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $20,00</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Danline</string>
+		<key>transactionMerchant</key>
+		<string>Danline</string>
+		<key>transactionDate</key>
+		<string>02/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $4,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>QuadStreet</string>
+		<key>transactionMerchant</key>
+		<string>QuadStreet</string>
+		<key>transactionDate</key>
+		<string>02/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $99,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Silvercore</string>
+		<key>transactionMerchant</key>
+		<string>Silvercore</string>
+		<key>transactionDate</key>
+		<string>08/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $14,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>D-zap</string>
+		<key>transactionMerchant</key>
+		<string>D-zap</string>
+		<key>transactionDate</key>
+		<string>02/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $29,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Duodom</string>
+		<key>transactionMerchant</key>
+		<string>Duodom</string>
+		<key>transactionDate</key>
+		<string>02/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $114,95</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Icenix</string>
+		<key>transactionMerchant</key>
+		<string>Icenix</string>
+		<key>transactionDate</key>
+		<string>02/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $15,41</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Warelux</string>
+		<key>transactionMerchant</key>
+		<string>Warelux</string>
+		<key>transactionDate</key>
+		<string>02/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $96,00</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Treelex</string>
+		<key>transactionMerchant</key>
+		<string>Treelex</string>
+		<key>transactionDate</key>
+		<string>01/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $6,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Stimelectronics</string>
+		<key>transactionMerchant</key>
+		<string>Stimelectronics</string>
+		<key>transactionDate</key>
+		<string>01/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $14,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Acedoline</string>
+		<key>transactionMerchant</key>
+		<string>Acedoline</string>
+		<key>transactionDate</key>
+		<string>01/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $9,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Gravefix</string>
+		<key>transactionMerchant</key>
+		<string>Gravefix</string>
+		<key>transactionDate</key>
+		<string>01/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $4,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Namline</string>
+		<key>transactionMerchant</key>
+		<string>Namline</string>
+		<key>transactionDate</key>
+		<string>01/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $44,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Codephase</string>
+		<key>transactionMerchant</key>
+		<string>Codephase</string>
+		<key>transactionDate</key>
+		<string>01/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $14,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Physdex</string>
+		<key>transactionMerchant</key>
+		<string>Physdex</string>
+		<key>transactionDate</key>
+		<string>01/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $0,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>transactionImage</key>
+		<string>Goldenfax</string>
+		<key>transactionMerchant</key>
+		<string>Goldenfax</string>
+		<key>transactionDate</key>
+		<string>01/05/2017</string>
+		<key>transactionAmount</key>
+		<string>- $25,99</string>
+		<key>transactionOutgoing</key>
+		<true/>
+	</dict>
+</array>
+</plist>

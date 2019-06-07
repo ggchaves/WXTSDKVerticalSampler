@@ -1,0 +1,173 @@
+PODS:
+  - AABlurAlertController (1.2.1)
+  - ActionButton (0.1.5)
+  - Alamofire (4.7.1)
+  - AlamofireObjectMapper (5.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.3)
+  - APFeedBack (0.1.2)
+  - ASBottomSheet (1.0.1)
+  - Bohr (3.0.0)
+  - CareKit (1.2.1)
+  - CircularSpinner (1.2.0)
+  - Collection (1.10.3)
+  - CollectionViewSlantedLayout (3.1.1)
+  - DateTools (2.0.0)
+  - DateToolsSwift (4.0.0)
+  - Device.swift (1.1.2)
+  - DynamicBlurView (3.0.1)
+  - EasyDate (0.12):
+    - DateTools
+  - EPSignature (1.0.6)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - KeychainAccess (3.1.2)
+  - Masonry (1.1.0)
+  - MIAlertController (1.3)
+  - MIFab (1.0)
+  - Mixpanel-swift (2.5.0):
+    - Mixpanel-swift/Complete (= 2.5.0)
+  - Mixpanel-swift/Complete (2.5.0)
+  - ObjectMapper (3.3.0)
+  - PopupDialog (0.9.0):
+    - DynamicBlurView (~> 3.0.1)
+  - ResearchKit (1.5.2)
+  - RVCalendarWeekView (0.5.3):
+    - Collection
+    - EasyDate (~> 0.9)
+    - Masonry
+    - UIColor-HexString
+  - SparkBroadcastExtensionKit (1.4.1)
+  - Starscream (3.0.5)
+  - SwiftForms (1.8.2)
+  - SwiftMessages (3.5.1)
+  - SwiftyJSON (4.2.0)
+  - SwiftySettings (1.0.0)
+  - SwiftyUserDefaults (3.0.1)
+  - UIColor-HexString (1.3.0)
+  - WebexSDK (0.0.1):
+    - Alamofire (= 4.7.1)
+    - AlamofireObjectMapper (~> 5.1)
+    - KeychainAccess (~> 3.1)
+    - ObjectMapper (~> 3.3)
+    - Starscream (= 3.0.5)
+    - SwiftyJSON (~> 4.1)
+
+DEPENDENCIES:
+  - AABlurAlertController
+  - ActionButton
+  - APFeedBack
+  - ASBottomSheet
+  - Bohr (~> 3.0)
+  - CareKit
+  - CircularSpinner
+  - CollectionViewSlantedLayout (~> 3.0)
+  - DateToolsSwift (~> 4.0)
+  - Device.swift
+  - EPSignature (~> 1.0)
+  - JSQMessagesViewController
+  - MIAlertController (~> 1.1)
+  - MIFab (~> 1.0)
+  - Mixpanel-swift
+  - PopupDialog
+  - ResearchKit (~> 1.4)
+  - RVCalendarWeekView (~> 0.5)
+  - SparkBroadcastExtensionKit
+  - SwiftForms
+  - SwiftMessages (~> 3.3)
+  - SwiftySettings (~> 1.0)
+  - SwiftyUserDefaults
+  - WebexSDK (from `https://github.com/webex/webex-ios-sdk.git`, branch `EFT/2.0.0`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AABlurAlertController
+    - ActionButton
+    - Alamofire
+    - AlamofireObjectMapper
+    - APFeedBack
+    - ASBottomSheet
+    - Bohr
+    - CareKit
+    - CircularSpinner
+    - Collection
+    - CollectionViewSlantedLayout
+    - DateTools
+    - DateToolsSwift
+    - Device.swift
+    - DynamicBlurView
+    - EasyDate
+    - EPSignature
+    - JSQMessagesViewController
+    - JSQSystemSoundPlayer
+    - KeychainAccess
+    - Masonry
+    - MIAlertController
+    - MIFab
+    - Mixpanel-swift
+    - ObjectMapper
+    - PopupDialog
+    - ResearchKit
+    - RVCalendarWeekView
+    - SparkBroadcastExtensionKit
+    - Starscream
+    - SwiftForms
+    - SwiftMessages
+    - SwiftyJSON
+    - SwiftySettings
+    - SwiftyUserDefaults
+    - UIColor-HexString
+
+EXTERNAL SOURCES:
+  WebexSDK:
+    :branch: EFT/2.0.0
+    :git: https://github.com/webex/webex-ios-sdk.git
+
+CHECKOUT OPTIONS:
+  WebexSDK:
+    :commit: 890a865edacfe00bfeae57bd21179c28b858863e
+    :git: https://github.com/webex/webex-ios-sdk.git
+
+SPEC CHECKSUMS:
+  AABlurAlertController: 7463fc59d9906e07040439d2bc80c56f313a3fa4
+  ActionButton: a71147de5a83b6d8d8e18464b216904ba7821677
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  AlamofireObjectMapper: 3395e698901d8b0e6f48b7d0c43bd47875325102
+  APFeedBack: aefb6a4f8510130a5479c4ac4067bfcb53285d1f
+  ASBottomSheet: 42660be0f3c87c8531cb115bcf7c701ed5f77378
+  Bohr: 17b150766e54e1fb8ff417d85b830c7caafa8b4a
+  CareKit: aa0c8a57c1a2d7cfb46ff3981fe1503f02ca302e
+  CircularSpinner: 80b8ee3eda59b66d20631d4ca7c7c83720931739
+  Collection: ea0d410a38b1988d20298e49ea0c008e1ee7fa5e
+  CollectionViewSlantedLayout: 24397455acd2461960bc45d394e0ef99c17d03ce
+  DateTools: 933ac9c490f21f92127cf690ccd8c397e0126caf
+  DateToolsSwift: 875d97ff9e3a5d54abdd67a269b3f51c757b71ab
+  Device.swift: f5ff884087c13999505b3a6b2ff1104fb6923f93
+  DynamicBlurView: b1df5415f9bd31897549e5d7077e5ec120a4d636
+  EasyDate: ae4fe5df42a810d2bf1aa40d96cb40e7618e7d77
+  EPSignature: 3fa3b520c80717b98019723faa60a41794b03fbc
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MIAlertController: 39277c0ea540fed8be1aba980ba076a0b49b1c22
+  MIFab: 750e5b463489e6b51b3cc2dec2c7e975487bbb60
+  Mixpanel-swift: 03cd406813de086b718c94a13065841aa0c41ccf
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  PopupDialog: 953c9502f0aa0adcead7d5eb3e9a4d46a11a0093
+  ResearchKit: a5770681dd61afddd3d1f24d232b9abf00cba454
+  RVCalendarWeekView: daa4e8cf9b744836c86dbb5b5ac64752b0832c65
+  SparkBroadcastExtensionKit: 7d4bcc7af7c9b8b9da9774946f5a955253c4f450
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+  SwiftForms: f0d4d30401e21de87d9b7b63a4691a3d4e22bab5
+  SwiftMessages: ea0184c801030e52674c603896812c392c129248
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SwiftySettings: fa9615f188c5e66561c5291e3a7271b3a4da3fda
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  UIColor-HexString: fadc2e1389db19147ac99dee92222d3bd8bfec4a
+  WebexSDK: da34beced0c03fd0b742e8a505d02a1ab1491d5f
+
+PODFILE CHECKSUM: 33152b91bda9fe0249bf5cea2f0a69999a3f9cf6
+
+COCOAPODS: 1.6.0.beta.1

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>financialServiceName</key>
+		<string>Mortgages</string>
+		<key>financialServiceImage</key>
+		<string>serviceMortgage</string>
+		<key>financialServiceSegueIdentifier</key>
+		<string>toMortgage</string>
+	</dict>
+	<dict>
+		<key>financialServiceName</key>
+		<string>Loans</string>
+		<key>financialServiceImage</key>
+		<string>serviceLoan</string>
+		<key>financialServiceSegueIdentifier</key>
+		<string>toLoans</string>
+	</dict>
+	<dict>
+		<key>financialServiceName</key>
+		<string>House Insurance</string>
+		<key>financialServiceImage</key>
+		<string>serviceHouseInsurance</string>
+		<key>financialServiceSegueIdentifier</key>
+		<string>toHouseInsurance</string>
+	</dict>
+	<dict>
+		<key>financialServiceName</key>
+		<string>Travel Insurance</string>
+		<key>financialServiceImage</key>
+		<string>serviceTravelInsurance</string>
+		<key>financialServiceSegueIdentifier</key>
+		<string>toTravelInsurance</string>
+	</dict>
+</array>
+</plist>

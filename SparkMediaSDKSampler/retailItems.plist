@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>productId</key>
+		<integer>0</integer>
+		<key>productName</key>
+		<string>No-Iron Shirts</string>
+		<key>productPrice</key>
+		<string>$45</string>
+		<key>productPriceRaw</key>
+		<integer>45</integer>
+		<key>productImage</key>
+		<string>retailShirts</string>
+		<key>productDescription</key>
+		<string>These shirts are made from the highest quality materials and are treated with a special natural process that means they never need to be ironed, even after a wash.</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<integer>1</integer>
+		<key>productName</key>
+		<string>Designer Ties</string>
+		<key>productPrice</key>
+		<string>$33</string>
+		<key>productPriceRaw</key>
+		<integer>33</integer>
+		<key>productImage</key>
+		<string>retailTies</string>
+		<key>productDescription</key>
+		<string>A selection of designer Ties made from 100% cotton. These Ties are suitable for everyday use and come with a 5 year guarantee.</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<integer>2</integer>
+		<key>productName</key>
+		<string>Hardwearing Jeans</string>
+		<key>productPrice</key>
+		<string>$70</string>
+		<key>productPriceRaw</key>
+		<integer>70</integer>
+		<key>productImage</key>
+		<string>retailJeans</string>
+		<key>productDescription</key>
+		<string>Our Jeans are made from the highest quality stone washed Denim. An American favorate that you depend on for all occasions.</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<integer>3</integer>
+		<key>productName</key>
+		<string>Sweatshirts</string>
+		<key>productPrice</key>
+		<string>$140</string>
+		<key>productPriceRaw</key>
+		<integer>140</integer>
+		<key>productImage</key>
+		<string>retailSweatShirts</string>
+		<key>productDescription</key>
+		<string>The warmest of warm Winter Sweatshirts are available now in a range of colours as part of our Winter range designed by top fashion guru Ryan Weddle.</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<integer>4</integer>
+		<key>productName</key>
+		<string>Childrens Slippers</string>
+		<key>productPrice</key>
+		<string>$28</string>
+		<key>productPriceRaw</key>
+		<integer>28</integer>
+		<key>productImage</key>
+		<string>retailSlippers</string>
+		<key>productDescription</key>
+		<string>Everyone needs a pair of slippers for the cold months, these Slippers are made from the highest quality materials and come with an 8 year guarantee.</string>
+	</dict>
+</array>
+</plist>
