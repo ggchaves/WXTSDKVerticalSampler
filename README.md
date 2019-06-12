@@ -92,8 +92,20 @@ You need to log into apple as a developer. Instructions are simple to follow if 
 
 - Simulator should now show the App: 
 
+![](SparkMediaSampler_doc_pic3.png)
 
+Click on the cogwheel: 
 
+![](SparkMediaSampler_doc_pic4.png)
+
+Enter at least the following:
+Your Email Address 
+Video Recipient URI (destination of video calls from the Sampler App; ie a cloud registered room system where you will pretent to be a remote expert)
+Messaging Recipient (anyones Webex teams account to receive chats)
+
+You are ready to go!
+
+- Sometimes, after a video call, the App becomes unresponsive. If this happens, swipe up from the bottom (if using the iPhone XR simulator) and then swipe away to close the app and re-launch it from the main screen of the simulator
 
 ## Documentation
 
