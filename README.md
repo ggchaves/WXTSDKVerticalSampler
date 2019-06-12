@@ -77,8 +77,8 @@ You need to log into apple as a developer. Instructions are simple to follow if 
 - Select Product->Clean Build Folder  from the menu
 - Hit the Play button in the upper left of the workspace:
 
-Snapshot of Touch 10 Home Screen Panel with Join Webex button:
-![Sample In-Room Control Screenshot](Screenshot_Touch10_idle.png)
+Hit the Play button in the upper left of the workspace:
+![Hit the Play button in the upper left of the workspace:](SparkMediaSampler_doc_pic1.png)
 
 
 - iF you get this error: Failed to set plugin placeholders for com.cisco.op2 Please do the following 
