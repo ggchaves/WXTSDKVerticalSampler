@@ -80,13 +80,19 @@ You need to log into apple as a developer. Instructions are simple to follow if 
 ![Hit the Play button in the upper left of the workspace:](SparkMediaSampler_doc_pic1.png)
 
 
-- iF you get this error: Failed to set plugin placeholders for com.cisco.op2 Please do the following 
+- If you get this error: Failed to set plugin placeholders for com.cisco.op2 Please do the following 
 
 - On the file explorer in XCode, on the WXTSDKSampler top level, click on it. Then on the tabs on the main window select Build Phases. Then on Embed App Extensions expand it and select "Copy only when installing"
 
 ![](SparkMediaSampler_doc_pic2.png)
 
+- You are also likely to get the following error: 
+![](InstallFail.jpg)
 
+If so, go ahead and add an identifier in the General Section of the main window when selecting the projects in the Project Navigator as shown here:
+![](AddBundleIdentifier.jpg)
+
+You will get the same warnings as shown there, but the App will install in the simulator and run. 
 
 - Hit the Run button again. 
 
