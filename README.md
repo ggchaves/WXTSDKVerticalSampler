@@ -89,14 +89,14 @@ You need to log into apple as a developer. Instructions are simple to follow if 
 - You are also likely to get the following error: 
 ![](InstallFail.jpg)
 
-If so, go ahead and add an identifier in the General Section of the main window when selecting the projects in the Project Navigator as shown here:
+If so, go ahead and add an identifier (following the format shown) in the General Section of the main window when selecting the projects in the Project Navigator as shown here:
 ![](AddBundleIdentifier.jpg)
 
 You will get the same warnings as shown there, but the App will install in the simulator and run. 
 
 - Hit the Run button again. 
 
-- Simulator should now show the App: 
+- Simulator should now show the App. It might not launch the app right away, but you can "swipe" to the left in the simulator so see the next Apps screen and the Webex Teams logo should be there for the sample app. Launch it and you should see the main screen of the app: 
 
 ![](SparkMediaSampler_doc_pic3.png)
 
